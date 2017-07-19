@@ -10,3 +10,6 @@ next
 
 dodaje cos
 >>>>>>> Stashed changes
+
+
+kolejne
